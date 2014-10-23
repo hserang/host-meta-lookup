@@ -186,7 +186,7 @@ var HostMeta = React.createClass({
           </form>
         </div>
         <div className="row">
-          <div className="col-xs-12 col-sm-8">
+          <div className="col-xs-12 col-sm-8 break-word">
               {this.getAccounts(this.state.accounts)}
               {this.getAliases(this.state.aliases)}
               {this.getLinks(this.state.links)}
