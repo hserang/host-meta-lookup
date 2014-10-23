@@ -1,5 +1,6 @@
 var data = {
   "https://latambridgepay.com": {
+    "fullUrl": "https://latambridgepay.com/.well-known/host-meta.json",
     "subject": "https://latambridgepay.com",
     "expires": "2014-01-30T09:30:00Z",
     "properties": {
