@@ -42,3 +42,9 @@ dl {
 .break-word {
   word-wrap: break-word;
 }
+
+input[type='text'],
+input[type='number'],
+textarea {
+  font-size: 16px;
+}

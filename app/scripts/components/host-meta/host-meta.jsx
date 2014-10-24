@@ -173,6 +173,8 @@ var HostMeta = React.createClass({
             <h2 Host-Meta Check/>
             <BootstrapInput
               type = 'text'
+              autoCapitalize='none'
+              autoCorrect='off'
               name = 'host'
               placeholder = 'Enter Complete Host Url'
               autoFocus = 'true'
