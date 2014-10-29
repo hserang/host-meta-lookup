@@ -7,4 +7,4 @@ window.React = React;
 
 var App = require('./components/app.jsx');
 
-React.renderComponent(<App />, document.getElementById('content-main'));
+React.render(<App />, document.getElementById('content-main'));
